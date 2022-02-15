@@ -1,0 +1,34 @@
+#portada{
+    border-radius: 100px;
+    margin-left: 18px;
+    margin-top: 20px;
+    width:100%;
+}
+.container-fluid ul li a{
+    width: 200px;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Bebas Neue', cursive ;
+    text-align: center;
+    text-size-adjust: inherit;
+}
+#cock{
+    width: 10px;
+}
+.container{
+    margin-top: 50px;
+}
+.img-airplane{
+    border-radius: 85px;
+}
+
+.container h2{
+    text-align: center;
+    font-family:'Bebas Neue', cursive ;
+    font-size: 80px;
+
+}
+.container p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
